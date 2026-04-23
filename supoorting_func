@@ -1,2 +1,5 @@
 def func1(arg1, arg2)
   print(arg1, arg2)
+
+def func2(arg1)
+  return(arg1+ hallo)
